@@ -1,0 +1,5 @@
+--require babel-register
+--require ignore-styles
+--reporter spec
+--timeout 20000
+--recursive

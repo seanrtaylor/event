@@ -1,0 +1,8 @@
+.DS_Store
+npm-debug.log
+.idea/
+node_modules/
+public/js/
+public/css/
+coverage/
+.nyc_output/
