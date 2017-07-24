@@ -21,6 +21,7 @@
   "author": "Matthew Page",
   "license": "MIT",
   "dependencies": {
+    "adminlte-reactjs": "^1.0.6",
     "axios": "^0.16.1",
     "classnames": "^2.2.5",
     "lodash": "^4.17.4",

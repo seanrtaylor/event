@@ -1,6 +1,7 @@
 import 'babel-polyfill';
 import React from 'react';
 import ReactDOM from 'react-dom';
+import reactjsAdminlte from 'adminlte-reactjs';
 import { Provider } from 'react-redux';
 import { store } from './store.js';
 import { router } from './router.js';
