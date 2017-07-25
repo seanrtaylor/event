@@ -35,14 +35,14 @@ define(
                             </form>
                             {/* /.search form */}
                             {/* sidebar menu: : style can be found in sidebar.less */}
-                            <ul className="sidebar-menu">
+                            <ul className="sidebar-menu tree">
                                 <li className="header">MAIN NAVIGATION</li>
                                 <li className="active treeview">
                                     <a href="#">
-                                        <i className="fa fa-dashboard"></i> 
+                                        <i className="fa fa-dashboard"></i>
                                         <span>
                                             Dashboard
-                                        </span> 
+                                        </span>
                                         <i className="fa fa-angle-left pull-right"></i>
                                     </a>
                                     <ul className="treeview-menu">
@@ -66,7 +66,7 @@ define(
                                 <li>
                                     <a href="widgets.html">
                                         <i className="fa fa-th"></i>
-                                        <span>Widgets</span> 
+                                        <span>Widgets</span>
                                         <small className="label pull-right bg-green">new</small>
                                     </a>
                                 </li>

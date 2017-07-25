@@ -1,6 +1,10 @@
 import React, { Component, PropTypes } from 'react';
 import '../stylesheets/main.scss';
 
+import HeaderBar from './header-bar/header-bar';
+import NavigationMenu from './navigation-menu';
+import ControlPanel from './control-panel';
+
 class App extends Component {
 
   static propTypes = {
@@ -9,7 +13,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className='container'>
+      <div className="full-size">
         {this.props.children}
       </div>
     );
