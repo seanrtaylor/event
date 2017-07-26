@@ -2,7 +2,6 @@ import React from 'react';
 import HeaderBar from './header-bar/header-bar';
 import NavigationMenu from './navigation-menu';
 import ControlPanel from './control-panel';
-
 import InfoTile from './info-tile/info-tile'
 
 export default class Event extends React.Component {
