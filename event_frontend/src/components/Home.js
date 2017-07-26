@@ -1,5 +1,5 @@
 import React from 'react';
-import Event from './event';
+import Event from './events/Event';
 import { Link } from 'react-router';
 
 // Home page component
