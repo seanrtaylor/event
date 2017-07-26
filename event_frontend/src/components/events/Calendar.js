@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class EventForm extends React.Component {
+export default class Calendar extends React.Component {
   render() {
     return (
       <div className="full-size">
