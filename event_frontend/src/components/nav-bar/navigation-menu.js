@@ -58,7 +58,7 @@ export default class NavigationMenu extends React.Component {
                   </li>
 
                   <li>
-                      <a href="/calender">
+                      <a href="/calendar">
                           <i className="fa fa-calendar"></i> <span>Calendar</span>
                           <small className="label pull-right bg-red">3</small>
                       </a>
